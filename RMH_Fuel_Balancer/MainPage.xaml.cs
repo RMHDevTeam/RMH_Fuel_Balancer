@@ -25,6 +25,12 @@ namespace RMH_Fuel_Balancer
         public MainPage()
         {
             this.InitializeComponent();
+
+            
+           
+
         }
+
+
     }
 }

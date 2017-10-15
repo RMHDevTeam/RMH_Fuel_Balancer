@@ -7,7 +7,11 @@
     xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
     mc:Ignorable="d">
 
-    <Grid Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
-
+    <Grid Background="{ThemeResource ApplicationPageBackgroundThemeBrush}" MinWidth="640" MinHeight="360" MaxWidth="640" MaxHeight="360">
+        <Image x:Name="MainPanel" HorizontalAlignment="Center" Height="340" Margin="134,10,114,0" VerticalAlignment="Top" Width="392" Source="Assets/tochniy_holst (1).png"/>
+        <Button Content="Button" HorizontalAlignment="Left" Margin="234,184,0,144" VerticalAlignment="Stretch" Width="35"/>
+        <Button Content="Button" HorizontalAlignment="Left" Margin="286,184,0,0" VerticalAlignment="Top" Width="33"/>
+        <Button Content="Button" HorizontalAlignment="Left" Margin="350,184,0,0" VerticalAlignment="Top" Width="35"/>
+        <Button Content="Button" HorizontalAlignment="Left" Margin="404,184,0,0" VerticalAlignment="Top" Width="32"/>
     </Grid>
 </Page>
