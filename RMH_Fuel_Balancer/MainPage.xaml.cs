@@ -26,5 +26,35 @@ namespace RMH_Fuel_Balancer
         {
             this.InitializeComponent();
         }
+
+        private void Play_pause_Click(object sender, RoutedEventArgs e)
+        {
+
+        }
+
+        private void Toggle_switch_circular_Click(object sender, RoutedEventArgs e)
+        {
+
+        }
+
+        private void Toggle_switch_1_1_Click(object sender, RoutedEventArgs e)
+        {
+
+        }
+
+        private void Toggle_switch_1_2_Click(object sender, RoutedEventArgs e)
+        {
+
+        }
+
+        private void Toggle_switch_2_1_Click(object sender, RoutedEventArgs e)
+        {
+
+        }
+
+        private void Toggle_switch_2_2_Click(object sender, RoutedEventArgs e)
+        {
+
+        }
     }
 }
